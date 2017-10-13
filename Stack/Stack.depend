@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507386013 source:c:\users\nexus\documents\cb\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1507672576 c:\users\nexus\documents\cb\stack\stack.h
+
+1507672291 source:c:\users\nexus\documents\cb\stack\stack.c
+	<stdlib.h>
+	"Stack.h"
+
