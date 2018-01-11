@@ -7,7 +7,7 @@ int main(int argc, char **argv)
     DIR *directory;
     struct dirent *dir;
     char file_name[256];
-    if ( argc < 2 ){
+    if ( argc <= 1 ){
         strcpy(file_name, ".");
     }
     else{
